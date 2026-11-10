@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "interior-design-project-software",
+  "description": "Interior Design Project Software — Construction Services Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Interior project software for quotations, material schedules, vendor POs, and milestone billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "construction-services",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/interior-design-project-software"
+}
